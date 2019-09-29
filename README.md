@@ -1,6 +1,6 @@
 # Nearest Color
 
-[![Build Status](https://travis-ci.com/samuele-mattiuzzo/nearest-color.svg?branch=master)](https://travis-ci.com/samuele-mattiuzzo/nearest-color)
+[![Build Status](https://travis-ci.org/samuele-mattiuzzo/nearest-color.svg?branch=master)](https://travis-ci.org/samuele-mattiuzzo/nearest-color)
 
 ## Requirements
 - Python 3
